@@ -1,0 +1,35 @@
+body {
+  background-color: lightcyan;
+  color: black;
+  text-align: center;
+  background-image: linear-gradient(135deg, #b8f2d0 0%, #42bfa5 50%, #75ddb3 100%);
+  background-repeat: repeat;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+h2 {
+  color: darkblue;
+  text-align: center;
+}
+
+h3 {
+  color: teal;
+  text-align: center;
+}
+
+p {
+  color: black;
+  text-align: center;
+}
+
+ul, ol {
+  text-align: left;
+}
+
+a {
+  color: crimson;
+}
